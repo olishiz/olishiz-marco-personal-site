@@ -8,15 +8,6 @@
                 <SummaryTable v-for="work in works" :key="work.id" caption="project" :data="work" :styles="['brackets']" />
             </TableList>
         </PageSection>
-
-        <PageSection
-            title="portfolio.talks"
-            subtitle="Sharing the knowledge"
-        >
-            <TableList>
-                <SummaryTable v-for="talk in talks" :key="talk.id" caption="title" :data="talk" :styles="['brackets']" />
-            </TableList>
-        </PageSection>
     </Page>
 </template>
 
