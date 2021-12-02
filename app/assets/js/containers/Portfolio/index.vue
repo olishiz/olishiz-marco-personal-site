@@ -2,7 +2,7 @@
     <Page :id="id" @enter="updateRoute">
         <PageSection
             title="portfolio.works"
-            subtitle="Latest agency projects"
+            subtitle="Latest agency & side projects"
         >
             <TableList>
                 <SummaryTable v-for="work in works" :key="work.id" caption="project" :data="work" :styles="['brackets']" />

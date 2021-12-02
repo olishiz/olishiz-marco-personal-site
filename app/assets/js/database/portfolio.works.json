@@ -1,5 +1,13 @@
 [
 	{
+		"id": "mqbc-my",
+		"project": "Malaysia-Qatar Business Council Website",
+		"date": "2021-09-01",
+		"stack": "HTML, JavaScript, CSS",
+		"tasks-description": "Developing and designing business council website and configuring email domains for client.",
+		"_link": "https://mqbc.com.my/"
+	},
+	{
 		"id": "frankitas-website",
 		"project": "Frankitas Website 2.0",
 		"date": "2020-01-01",
