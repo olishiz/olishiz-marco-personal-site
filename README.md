@@ -49,3 +49,11 @@ To run the boilerplate in development mode (uses [webpack dev server](https://we
 ```
 yarn start
 ```
+
+## Notes:
+
+1) Install nvm, then `nvm install 8.17.0`, then `nvm use 8.17.0`
+
+2) Install yarn on global by running `npm install --global yarn`
+
+3) Install node_modules by just using yarn package - `yarn` then serve it using `yarn start`
