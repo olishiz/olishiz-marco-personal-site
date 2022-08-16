@@ -57,3 +57,5 @@ yarn start
 2) Install yarn on global by running `npm install --global yarn`
 
 3) Install node_modules by just using yarn package - `yarn` then serve it using `yarn start`
+
+4) To build artifacts, run the following command `yarn build`
