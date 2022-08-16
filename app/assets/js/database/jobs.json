@@ -1,10 +1,20 @@
 [
+    {
+        "id": 4,
+        "company": "EDAG Mobility IT",
+        "from": "2022-07-18",
+        "to": "Present",
+        "duration": "Current Company",
+        "title": "Senior Full Stack Developer",
+        "description": "Working for an Automotive German Company that develops Automotive projects from concept through to implementation and validation.",
+        "_link": "https://my.edag.com/en/"
+    },
 	{
 		"id": 3,
 		"company": "Etiqa Insurance and Takaful",
 		"from": "2020-09-17",
-		"to": "Present",
-		"duration": "Current Company",
+		"to": "2022-07-17",
+		"duration": "2 years",
 		"title": "Full Stack Developer",
 		"description": "Working as Full Stack Developer for Insurance Company",
 		"_link": "https://etiqa.com.my/"

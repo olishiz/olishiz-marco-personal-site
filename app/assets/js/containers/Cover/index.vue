@@ -18,7 +18,7 @@
                 <h2 lang="ja" :class="$style.headline">こんにちは！</h2>
                 <article :class="$style.text">
                   <p>My name is <b>Oliver Sim.</b></p>
-                  <p>I am a 26yo <b>Full Stack Developer</b> / <b>UX Engineer</b> from Malaysia. Living in Selangor. I speak English, Malay, Mandarin, and some Hokkien.</p>
+                  <p>I am a 27yo <b>Full Stack Developer</b> / <b>UX Engineer</b> from Malaysia. Living in Selangor. I speak English, Malay, Mandarin, and some Hokkien.</p>
                   <p>Minimalist. Loves dogs. Enjoys football.</p>
                 </article>
                 <footer :class="$style.footer">

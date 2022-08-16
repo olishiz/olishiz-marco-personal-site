@@ -24,8 +24,8 @@
 				"level": 90
 			},
 			{
-				"id": "php",
-				"label": "PHP5.5+",
+				"id": "kotlin",
+				"label": "Kotlin",
 				"level": 90
 			}
 		]
@@ -55,9 +55,9 @@
 				"level": 100
 			},
 			{
-				"id": "laravel-blade",
-				"label": "Laravel Blade",
-				"level": 100
+				"id": "react-js",
+				"label": "React JS",
+				"level": 80
 			}
 		]
 	},
@@ -71,8 +71,8 @@
 				"level": 90
 			},
 			{
-				"id": "laravel-eloquent",
-				"label": "Laravel Eloquent ORM",
+				"id": "nestJS",
+				"label": "NestJS",
 				"level": 90
 			},
 			{

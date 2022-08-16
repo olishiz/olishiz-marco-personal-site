@@ -17,6 +17,8 @@
 
 * Node.js >= 6.9.0 (we strongly suggest to use something like [nvm](https://github.com/creationix/nvm))
 * npm or [yarn](https://yarnpkg.com/lang/en/)
+* REMEMBER TO USE: `nvm use 8.17.0` to build and run the development project!
+
 
 ## Installation
 
@@ -24,7 +26,7 @@
 
 2) From project root:
 
-* `npm install` or `yarn`
+*  `yarn`
 
 ## Scripts
 

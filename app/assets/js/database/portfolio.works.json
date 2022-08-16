@@ -1,4 +1,20 @@
 [
+    {
+        "id": "bora",
+        "project": "BORA Website",
+        "date": "2022-07-07",
+        "stack": "WebFlow",
+        "tasks-description": "Developing and designing NGO website using WebFlow",
+        "_link": "https://www.bringingbackourrareanimals.org/"
+    },
+    {
+        "id": "rs-prop",
+        "project": "RS Property Services",
+        "date": "2022-01-01",
+        "stack": "HTML, JavaScript, CSS",
+        "tasks-description": "Developing and designing interior design website for client.",
+        "_link": "https://rspropservices.com/"
+    },
 	{
 		"id": "mqbc-my",
 		"project": "Malaysia-Qatar Business Council Website",
