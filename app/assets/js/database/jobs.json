@@ -6,47 +6,47 @@
         "to": "Present",
         "duration": "Current Company",
         "title": "Senior Full Stack Developer",
-        "description": "Working for an Automotive German Company that develops Automotive projects from concept through to implementation and validation.",
+        "description": "Collaborating with a leading German automotive company, engaged in the development of comprehensive automotive projects from initial concept to implementation and validation, ensuring top-notch quality and performance.",
         "_link": "https://my.edag.com/en/"
     },
-	{
-		"id": 3,
-		"company": "Etiqa Insurance and Takaful",
-		"from": "2020-09-17",
-		"to": "2022-07-17",
-		"duration": "2 years",
-		"title": "Full Stack Developer",
-		"description": "Working as Full Stack Developer for Insurance Company",
-		"_link": "https://etiqa.com.my/"
-	},
-	{
-		"id": 2,
-		"company": "CapitalBay",
-		"from": "2019-11-04",
-		"to": "2020-02-05",
-		"duration": "4 months",
-		"title": "Software Engineer",
-		"description": "Working as Full Stack Engineer for Credit Innovation Projects and <abbr title=\"Application Programming Interface\">API</abbr> Developer",
-		"_link": "https://capitalbay.com.my/"
-	},
-	{
-		"id": 1,
-		"company": "iFAST Corporation Ltd",
-		"from": "2019-02-01",
-		"to": "2019-11-01",
-		"duration": "10 months",
-		"title": "Full Stack Developer",
-		"description": "Working as Full Stack Engineer for multiple <abbr title=\"Business-To-Business\">B2B</abbr> Projects and maintaining/enhancing existing web apps",
-		"_link": "http://www.ifastcorp.com/"
-	},
-	{
-		"id": 0,
-		"company": "Synergize Global",
-		"from": "2017-11-01",
-		"to": "2018-07-01",
-		"duration": "9 months",
-		"title": "Business Analyst Internship",
-		"description": "Analyse and strategies plans to approach a more effective collaborative events",
-		"_link": "https://www.facebook.com/synergize.global/"
-	}
+    {
+        "id": 3,
+        "company": "Etiqa Insurance and Takaful",
+        "from": "2020-09-17",
+        "to": "2022-07-17",
+        "duration": "2 years",
+        "title": "Full Stack Developer",
+        "description": "Working as Full Stack Developer for Insurance Company",
+        "_link": "https://etiqa.com.my/"
+    },
+    {
+        "id": 2,
+        "company": "CapitalBay",
+        "from": "2019-11-04",
+        "to": "2020-02-05",
+        "duration": "4 months",
+        "title": "Software Engineer",
+        "description": "Working as Full Stack Engineer for Credit Innovation Projects and <abbr title=\"Application Programming Interface\">API</abbr> Developer",
+        "_link": "https://capitalbay.com.my/"
+    },
+    {
+        "id": 1,
+        "company": "iFAST Corporation Ltd",
+        "from": "2019-02-01",
+        "to": "2019-11-01",
+        "duration": "10 months",
+        "title": "Full Stack Developer",
+        "description": "Working as Full Stack Engineer for multiple <abbr title=\"Business-To-Business\">B2B</abbr> Projects and maintaining/enhancing existing web apps",
+        "_link": "http://www.ifastcorp.com/"
+    },
+    {
+        "id": 0,
+        "company": "Synergize Global",
+        "from": "2017-11-01",
+        "to": "2018-07-01",
+        "duration": "9 months",
+        "title": "Business Analyst Internship",
+        "description": "Analyse and strategies plans to approach a more effective collaborative events",
+        "_link": "https://www.facebook.com/synergize.global/"
+    }
 ]
