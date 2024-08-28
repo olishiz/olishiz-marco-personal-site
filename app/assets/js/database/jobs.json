@@ -1,6 +1,6 @@
 [
     {
-        "id": 4,
+        "id": 3,
         "company": "EDAG Mobility IT",
         "from": "2022-07-18",
         "to": "Present",
@@ -10,7 +10,7 @@
         "_link": "https://my.edag.com/en/"
     },
     {
-        "id": 3,
+        "id": 2,
         "company": "Etiqa Insurance and Takaful",
         "from": "2020-09-17",
         "to": "2022-07-17",
@@ -18,16 +18,6 @@
         "title": "Full Stack Developer",
         "description": "Working as Full Stack Developer for Insurance Company",
         "_link": "https://etiqa.com.my/"
-    },
-    {
-        "id": 2,
-        "company": "CapitalBay",
-        "from": "2019-11-04",
-        "to": "2020-02-05",
-        "duration": "4 months",
-        "title": "Software Engineer",
-        "description": "Working as Full Stack Engineer for Credit Innovation Projects and <abbr title=\"Application Programming Interface\">API</abbr> Developer",
-        "_link": "https://capitalbay.com.my/"
     },
     {
         "id": 1,
