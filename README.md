@@ -59,3 +59,5 @@ yarn start
 3) Install node_modules by just using yarn package - `yarn` then serve it using `yarn start`
 
 4) To build artifacts, run the following command `yarn build`
+
+5) To push to GitHub pages, run the following command `cp -r public/* ../olishiz.github.io/` - make sure that locally, you have the repo cloned in your local directory
