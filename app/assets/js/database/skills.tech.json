@@ -50,14 +50,9 @@
 				"level": 90
 			},
 			{
-				"id": "dom-libraries",
-				"label": "jQuery 3+",
-				"level": 100
-			},
-			{
 				"id": "react-js",
 				"label": "React JS",
-				"level": 80
+				"level": 90
 			}
 		]
 	},
@@ -65,11 +60,6 @@
 		"label": "Back-End Framework",
 		"ico": "checklist",
 		"data": [
-			{
-				"id": "laravel",
-				"label": "Laravel",
-				"level": 90
-			},
 			{
 				"id": "nestJS",
 				"label": "NestJS",
@@ -102,45 +92,45 @@
 				"level": 100
 			},
 			{
-				"id": "dml",
-				"label": "DML",
+				"id": "postgresql",
+				"label": "PostgreSQL",
 				"level": 100
 			},
 			{
-				"id": "ddl",
-				"label": "DDL",
+				"id": "mongodb",
+				"label": "MongoDB",
 				"level": 100
 			}
 		]
 	},
 	{
-		"label": "Best Practices",
-		"ico": "heart",
+		"label": "DevOps",
+		"ico": "terminal",
 		"data": [
 			{
-				"id": "progressive",
-				"label": "Progressive Enhancement",
+				"id": "Bamboo",
+				"label": "Bamboo",
 				"level": 100
 			},
 			{
-				"id": "bem",
-				"label": "Atomic Design / BEM",
+				"id": "github-actions",
+				"label": "GitHub Actions",
 				"level": 100
 			},
 			{
-				"id": "a11y",
-				"label": "Accessibility",
+				"id": "docker",
+				"label": "Docker",
+				"level": 100
+			},
+			{
+				"id": "kubernetes",
+				"label": "Kubernetes",
 				"level": 80
 			},
 			{
-				"id": "responsive",
-				"label": "Responsive Design",
+				"id": "sonarqube",
+				"label": "SonarQube",
 				"level": 100
-			},
-			{
-				"id": "ds",
-				"label": "Design Systems",
-				"level": 80
 			}
 		]
 	},
@@ -159,13 +149,13 @@
 				"level": 100
 			},
 			{
-				"id": "vagrant",
-				"label": "Vagrant",
+				"id": "warp",
+				"label": "Warp",
 				"level": 90
 			},
 			{
 				"id": "vcs",
-				"label": "Sourcetree",
+				"label": "GitHub CLI",
 				"level": 90
 			}
 		]

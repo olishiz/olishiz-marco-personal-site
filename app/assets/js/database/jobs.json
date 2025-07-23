@@ -1,12 +1,22 @@
 [
     {
+        "id": 4,
+        "company": "Maybank",
+        "from": "2025-03-17",
+        "to": "",
+        "duration": "Present",
+        "title": "Senior Full Stack Developer",
+        "description": "Developing AI-driven enterprise applications, modernizing systems, and optimizing data pipelines and cloud resources at Maybank",
+        "_link": "https://maybank.com/"
+    },
+    {
         "id": 3,
         "company": "EDAG Mobility IT",
         "from": "2022-07-18",
         "to": "2024-10-31",
         "duration": "2 years 4 months",
         "title": "Senior Full Stack Developer",
-        "description": "Collaborating with a leading German automotive company, engaged in the development of comprehensive automotive projects from initial concept to implementation and validation, ensuring top-notch quality and performance.",
+        "description": "Collaborating with a leading German automotive company, engaged in the development of comprehensive automotive projects from initial concept to implementation and validation, ensuring top-notch quality and performance",
         "_link": "https://my.edag.com/en/"
     },
     {
