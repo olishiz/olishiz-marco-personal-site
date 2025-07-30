@@ -22,7 +22,7 @@
           <p>I am a <b>Full Stack Developer</b> / <b>UX Engineer</b> from Malaysia. Passionate about clean architecture
             and best web development practice. Living in Selangor. I speak English, Malay, Mandarin, and some Hokkien.
           </p>
-          <p>Minimalist. Loves dogs. Enjoys football.</p>
+          <p>Minimalist. Loves cats. Enjoys football.</p>
         </article>
         <footer :class="$style.footer">
           <SocialList :items="socials" :class="$style.socialList"/>
