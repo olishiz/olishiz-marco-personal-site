@@ -61,6 +61,7 @@
     "umeboshi-config": "0.1.10",
     "umeboshi-config-vue": "0.1.8",
     "umeboshi-scripts": "^0.1.0",
+    "vue-template-compiler": "2.5.2",
     "webpack": "^3.0.0",
     "webpack-bundle-analyzer": "2.9.1",
     "yargs": "10.0.3"
