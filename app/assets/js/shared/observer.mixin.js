@@ -30,6 +30,16 @@ export default {
 
     methods: {
 
+        // entry.rootBounds can be null (e.g. inside cross-origin iframes or before layout),
+        // so fall back to the viewport to avoid "Cannot read properties of null (reading 'top')"
+        getRootBounds(entry) {
+            return entry.rootBounds || {
+                top: 0,
+                bottom: window.innerHeight,
+                height: window.innerHeight
+            };
+        },
+
         createTopObserver(el) {
 
             const config = {
@@ -38,7 +48,7 @@ export default {
 
             const observer = new IntersectionObserver(([entry]) => {
                 const targetInfo = entry.boundingClientRect;
-                const rootBoundsInfo = entry.rootBounds;
+                const rootBoundsInfo = this.getRootBounds(entry);
 
                 if (targetInfo.bottom < rootBoundsInfo.top) {
                     //console.log(this.id, 'top', 'leaving');
@@ -59,7 +69,7 @@ export default {
 
             const observer = new IntersectionObserver(([entry]) => {
                 const targetInfo = entry.boundingClientRect;
-                const rootBoundsInfo = entry.rootBounds;
+                const rootBoundsInfo = this.getRootBounds(entry);
                 const ratio = entry.intersectionRatio;
                 if (targetInfo.bottom > rootBoundsInfo.top && ratio >= 1 && targetInfo.top < (rootBoundsInfo.height / 4)) {
                     this.$emit('enter', { id: this.id, dir: 'bottom' });

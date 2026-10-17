@@ -21,12 +21,12 @@
     },
     {
         "type": "pdf",
-        "url": "https://drive.google.com/file/d/1IobIxRebHWA48C_7ekFvrZGwSpPFaVaA/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1jwVxQSJNIunibpgp70Z40fPumwmI5B8E/view?usp=sharing",
         "label": "pdf/resume"
     },
     {
         "type": "terminal",
         "url": "https://olishiz.github.io/portfolio/",
-        "label": "Display VS Code Portfolio: olishiz.github.io/portfolio"
+        "label": "Side Projects"
     }
 ]
