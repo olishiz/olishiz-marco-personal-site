@@ -61,3 +61,5 @@ yarn start
 4) To build artifacts, run the following command `yarn build`
 
 5) To push to GitHub pages, run the following command `cp -r public/* ../olishiz.github.io/` - make sure that locally, you have the repo cloned in your local directory
+
+> Note: olishiz.github.io now redirects to [olishiz.com](https://olishiz.com), so step 5 is no longer used for the live site.
